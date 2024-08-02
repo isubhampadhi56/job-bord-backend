@@ -1,16 +1,17 @@
-async function login(){
+import { Request,Response } from "express"
+async function login(req:Request, res:Response){
 
 } 
 
-async function register(){
+async function register(req:Request, res:Response){
 
 }
 
-async function isAuthenticated(){
+async function isAuthenticated(req:Request, res:Response){
 
 }
 
-async function logout(){
+async function logout(req:Request, res:Response){
 
 }
 
